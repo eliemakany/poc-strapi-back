@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_texte_2_colonnes",
+  "info": {
+    "name": "2 colonnes",
+    "icon": "grip-vertical",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title2Col": {
+      "type": "string"
+    },
+    "baseline": {
+      "type": "string"
+    },
+    "blocTextLeft": {
+      "type": "richtext"
+    },
+    "blocTextRight": {
+      "type": "richtext"
+    }
+  }
+}

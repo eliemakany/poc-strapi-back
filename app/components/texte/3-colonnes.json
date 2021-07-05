@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_texte_3_colonnes",
+  "info": {
+    "name": "3 Colonnes",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "title3Col": {
+      "type": "string"
+    },
+    "baseline": {
+      "type": "string"
+    },
+    "blocTextLeft": {
+      "type": "richtext"
+    },
+    "blockTextMiddle": {
+      "type": "richtext"
+    },
+    "blockTextRight": {
+      "type": "richtext"
+    }
+  }
+}

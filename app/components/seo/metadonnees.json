@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_seo_metadonnees",
+  "info": {
+    "name": "Metadonnées",
+    "icon": "file"
+  },
+  "options": {},
+  "attributes": {
+    "Metatitle": {
+      "type": "string"
+    },
+    "Metadescription": {
+      "type": "text"
+    },
+    "AliasUrl": {
+      "type": "string"
+    },
+    "CanonicalUrl": {
+      "type": "string"
+    }
+  }
+}
